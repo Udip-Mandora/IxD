@@ -39,7 +39,7 @@ input {
 
 .actions {
     margin-top: 2em;
-    margin-left: 65px;
+    margin-left: 140px;
 }
 
 main {
@@ -50,7 +50,7 @@ main {
 
 footer {
     border: 1px solid black;
-    width: 420px;
-    padding: 20px;
+    width: 460px;
+    /* padding: 20px; */
 
 }
