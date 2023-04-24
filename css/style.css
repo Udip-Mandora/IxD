@@ -6,7 +6,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    margin-left: 25px;
+    margin-left: 65px;
 
 }
 
@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    margin-left: 25px;
+    margin-left: 65px;
     gap: 15px;
 }
 
@@ -22,7 +22,7 @@ body {
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    margin-left: 25px;
+    margin-left: 65px;
 }
 
 a {
@@ -32,8 +32,13 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    color: blanchedalmond;
+    background-color: blue;
+}
+
 input {
-    margin-left: 75px;
+    margin-left: 105px;
     border-radius: 5px;
 }
 
@@ -53,4 +58,8 @@ footer {
     width: 460px;
     /* padding: 20px; */
 
+}
+
+#btn {
+    margin-left: 13em;
 }
