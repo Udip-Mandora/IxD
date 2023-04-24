@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.row-one {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 25px;
+
+}
+
+.row-two {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 25px;
+    gap: 15px;
+}
+
+.row-three {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+a {
+    padding: 20px;
+    border: 1px solid black;
+    margin: 2px;
+    text-decoration: none;
+}
+
+input {
+    margin-left: 75px;
+    border-radius: 5px;
+}
+
+.actions {
+    margin-top: 2em;
+    margin-left: 65px;
+}
+
+main {
+    border: 1px solid blaCK;
+    width: 420px;
+    padding: 20px;
+}
+
+footer {
+    border: 1px solid black;
+    width: 420px;
+    padding: 20px;
+
+}
